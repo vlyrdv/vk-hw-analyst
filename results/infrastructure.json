@@ -1,0 +1,42 @@
+{
+  "docker_ps": "rustfs-analyst-hw Up 47 minutes",
+  "health_http": "200",
+  "objects": [
+    {
+      "key": "analyst_variant10.csv",
+      "bytes": 5431193
+    },
+    {
+      "key": "it_vacancies_2024.csv",
+      "bytes": 847619384
+    },
+    {
+      "key": "it_vacancies_2024_projection.csv",
+      "bytes": 41294053
+    },
+    {
+      "key": "results/analyst/duckdb_k1.csv",
+      "bytes": 204250
+    },
+    {
+      "key": "results/analyst/duckdb_k2.csv",
+      "bytes": 6361433
+    },
+    {
+      "key": "results/analyst/duckdb_k3.csv",
+      "bytes": 65493555
+    },
+    {
+      "key": "results/analyst/mapreduce_k1.csv",
+      "bytes": 204250
+    },
+    {
+      "key": "results/analyst/mapreduce_k2.csv",
+      "bytes": 6361433
+    },
+    {
+      "key": "results/analyst/mapreduce_k3.csv",
+      "bytes": 65493555
+    }
+  ]
+}
