@@ -1,0 +1,4 @@
+NAME                SERVICE   STATE
+zk-homework-zk1-1   zk1       running
+zk-homework-zk2-1   zk2       running
+zk-homework-zk3-1   zk3       running

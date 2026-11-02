@@ -1,0 +1,4 @@
+Connection dropped: socket connection broken
+{"time": "2026-11-02T11:41:37.127477+00:00", "mono": 936497.327179291, "event": "receiver_ready", "port": 18089}
+{"time": "2026-11-02T11:42:07.965140+00:00", "mono": 936528.16471025, "event": "accepted", "coordinator": "backup", "epoch": 2, "pointer_version": 1}
+{"time": "2026-11-02T11:42:36.944261+00:00", "mono": 936557.144221375, "event": "accepted", "coordinator": "primary", "epoch": 1, "pointer_version": 2}

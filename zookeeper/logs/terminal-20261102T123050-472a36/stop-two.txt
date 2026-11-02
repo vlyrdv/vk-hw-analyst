@@ -1,0 +1,2 @@
+ Container zk-homework-zk3-1  Stopping
+ Container zk-homework-zk3-1  Stopped

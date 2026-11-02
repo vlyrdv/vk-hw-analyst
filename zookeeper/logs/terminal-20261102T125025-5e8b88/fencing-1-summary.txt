@@ -1,0 +1,11 @@
+{
+  "run": "terminal-20261102T125025-5e8b88-fencing-1",
+  "session_timeout_ms": 10000,
+  "suspended_seconds": 40.0037579999771,
+  "failover_seconds": 10.76198016689159,
+  "checkpoint_next_row": 30000,
+  "accepted_count": 1,
+  "pointer_version": 1,
+  "coordinator": "backup",
+  "epoch": 2
+}

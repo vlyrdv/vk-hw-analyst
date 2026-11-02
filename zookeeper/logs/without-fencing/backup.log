@@ -1,0 +1,25 @@
+{"time": "2026-11-02T11:41:38.585153+00:00", "mono": 936498.784527833, "event": "connected", "coordinator": "backup", "session_timeout_ms": 10000, "fencing": 0}
+{"time": "2026-11-02T11:41:51.288254+00:00", "mono": 936511.487627958, "event": "became_leader", "coordinator": "backup", "epoch": 2, "pid": 61557}
+{"time": "2026-11-02T11:41:51.874096+00:00", "mono": 936512.073437083, "event": "restored_checkpoint", "next_row": 30000, "unique_pairs": 23277}
+{"time": "2026-11-02T11:41:52.432377+00:00", "mono": 936512.631716083, "event": "checkpoint_saved", "next_row": 40000, "epoch": 2}
+{"time": "2026-11-02T11:41:53.101606+00:00", "mono": 936513.300955041, "event": "checkpoint_saved", "next_row": 50000, "epoch": 2}
+{"time": "2026-11-02T11:41:53.806575+00:00", "mono": 936514.005934875, "event": "checkpoint_saved", "next_row": 60000, "epoch": 2}
+{"time": "2026-11-02T11:41:54.490597+00:00", "mono": 936514.689963791, "event": "checkpoint_saved", "next_row": 70000, "epoch": 2}
+{"time": "2026-11-02T11:41:55.204853+00:00", "mono": 936515.404229125, "event": "checkpoint_saved", "next_row": 80000, "epoch": 2}
+{"time": "2026-11-02T11:41:55.932389+00:00", "mono": 936516.131777375, "event": "checkpoint_saved", "next_row": 90000, "epoch": 2}
+{"time": "2026-11-02T11:41:56.678780+00:00", "mono": 936516.878175291, "event": "checkpoint_saved", "next_row": 100000, "epoch": 2}
+{"time": "2026-11-02T11:41:57.428632+00:00", "mono": 936517.628037083, "event": "checkpoint_saved", "next_row": 110000, "epoch": 2}
+{"time": "2026-11-02T11:41:58.218551+00:00", "mono": 936518.41798, "event": "checkpoint_saved", "next_row": 120000, "epoch": 2}
+{"time": "2026-11-02T11:41:59.002185+00:00", "mono": 936519.201613208, "event": "checkpoint_saved", "next_row": 130000, "epoch": 2}
+{"time": "2026-11-02T11:41:59.774371+00:00", "mono": 936519.973823833, "event": "checkpoint_saved", "next_row": 140000, "epoch": 2}
+{"time": "2026-11-02T11:42:00.572476+00:00", "mono": 936520.771925291, "event": "checkpoint_saved", "next_row": 150000, "epoch": 2}
+{"time": "2026-11-02T11:42:01.396230+00:00", "mono": 936521.595689791, "event": "checkpoint_saved", "next_row": 160000, "epoch": 2}
+{"time": "2026-11-02T11:42:02.270992+00:00", "mono": 936522.470466666, "event": "checkpoint_saved", "next_row": 170000, "epoch": 2}
+{"time": "2026-11-02T11:42:03.114247+00:00", "mono": 936523.313733708, "event": "checkpoint_saved", "next_row": 180000, "epoch": 2}
+{"time": "2026-11-02T11:42:03.997205+00:00", "mono": 936524.196701375, "event": "checkpoint_saved", "next_row": 190000, "epoch": 2}
+{"time": "2026-11-02T11:42:04.881191+00:00", "mono": 936525.080698083, "event": "checkpoint_saved", "next_row": 200000, "epoch": 2}
+{"time": "2026-11-02T11:42:05.811351+00:00", "mono": 936526.01087125, "event": "checkpoint_saved", "next_row": 210000, "epoch": 2}
+{"time": "2026-11-02T11:42:06.744360+00:00", "mono": 936526.943898666, "event": "checkpoint_saved", "next_row": 220000, "epoch": 2}
+{"time": "2026-11-02T11:42:07.681740+00:00", "mono": 936527.881296083, "event": "checkpoint_saved", "next_row": 229388, "epoch": 2}
+{"time": "2026-11-02T11:42:07.911838+00:00", "mono": 936528.111391291, "event": "calculation_finished", "coordinator": "backup", "epoch": 2, "epoch_version": 2, "fencing": 0, "path": "results/without-fencing/backup-e2-pairs.csv", "sha256": "989ee2a5b4e5dda269919b8dcc91da31a6954a9583eb0123e3960214c8aeeedb", "unique_pairs": 96052, "total_pairs": 506354, "matched_vacancies": 30112, "vacancies_with_skills": 17932}
+{"time": "2026-11-02T11:42:07.965730+00:00", "mono": 936528.165274958, "event": "записал результат", "accepted": true, "pointer_version": 1, "coordinator": "backup", "epoch": 2, "epoch_version": 2, "fencing": 0, "path": "results/without-fencing/backup-e2-pairs.csv", "sha256": "989ee2a5b4e5dda269919b8dcc91da31a6954a9583eb0123e3960214c8aeeedb", "unique_pairs": 96052, "total_pairs": 506354, "matched_vacancies": 30112, "vacancies_with_skills": 17932}

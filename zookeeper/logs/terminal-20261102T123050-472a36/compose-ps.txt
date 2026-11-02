@@ -1,0 +1,4 @@
+NAME                IMAGE                                                                                     COMMAND                  SERVICE   CREATED         STATUS         PORTS
+zk-homework-zk1-1   zookeeper:3.9.6@sha256:17d9b6af91d97ad4feec7b088102d34f1c42df52d6320fd794af5d01d48883a0   "/docker-entrypoint.…"   zk1       4 seconds ago   Up 2 seconds   2888/tcp, 3888/tcp, 127.0.0.1:2181->2181/tcp, 8080/tcp
+zk-homework-zk2-1   zookeeper:3.9.6@sha256:17d9b6af91d97ad4feec7b088102d34f1c42df52d6320fd794af5d01d48883a0   "/docker-entrypoint.…"   zk2       4 seconds ago   Up 2 seconds   2888/tcp, 3888/tcp, 8080/tcp, 127.0.0.1:2182->2181/tcp
+zk-homework-zk3-1   zookeeper:3.9.6@sha256:17d9b6af91d97ad4feec7b088102d34f1c42df52d6320fd794af5d01d48883a0   "/docker-entrypoint.…"   zk3       4 seconds ago   Up 2 seconds   2888/tcp, 3888/tcp, 8080/tcp, 127.0.0.1:2183->2181/tcp

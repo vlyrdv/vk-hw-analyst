@@ -1,0 +1,20 @@
+{
+  "hw3_repository": "https://github.com/vlyrdv/vk-hw-analyst",
+  "hw3_commit": "7b2af17ac13486c928bc5291f4c569f5435620fa",
+  "files": [
+    {
+      "bucket": "hh-lake",
+      "key": "it_vacancies_2024_projection.csv",
+      "bytes": 41294053,
+      "sha256": "958b61a59f9a4fb1527ba989803a9a660ae4ac9c52b8a66bfe9b88099fdc8400",
+      "local_equals_s3": true
+    },
+    {
+      "bucket": "hh-lake",
+      "key": "results/analyst/mapreduce_k2.csv",
+      "bytes": 6361433,
+      "sha256": "989ee2a5b4e5dda269919b8dcc91da31a6954a9583eb0123e3960214c8aeeedb",
+      "local_equals_s3": true
+    }
+  ]
+}

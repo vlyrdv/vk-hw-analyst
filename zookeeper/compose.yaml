@@ -1,0 +1,48 @@
+name: zk-homework
+services:
+  zk1:
+    image: zookeeper:3.9.6@sha256:17d9b6af91d97ad4feec7b088102d34f1c42df52d6320fd794af5d01d48883a0
+    hostname: zk1
+    environment:
+      ZOO_MY_ID: "1"
+      JVMFLAGS: "-Xms128m -Xmx256m"
+    ports:
+      - "127.0.0.1:2181:2181"
+    volumes:
+      - ./conf/zk1/zoo.cfg:/conf/zoo.cfg:ro
+      - zk1-data:/data
+      - zk1-datalog:/datalog
+    restart: "no"
+  zk2:
+    image: zookeeper:3.9.6@sha256:17d9b6af91d97ad4feec7b088102d34f1c42df52d6320fd794af5d01d48883a0
+    hostname: zk2
+    environment:
+      ZOO_MY_ID: "2"
+      JVMFLAGS: "-Xms128m -Xmx256m"
+    ports:
+      - "127.0.0.1:2182:2181"
+    volumes:
+      - ./conf/zk2/zoo.cfg:/conf/zoo.cfg:ro
+      - zk2-data:/data
+      - zk2-datalog:/datalog
+    restart: "no"
+  zk3:
+    image: zookeeper:3.9.6@sha256:17d9b6af91d97ad4feec7b088102d34f1c42df52d6320fd794af5d01d48883a0
+    hostname: zk3
+    environment:
+      ZOO_MY_ID: "3"
+      JVMFLAGS: "-Xms128m -Xmx256m"
+    ports:
+      - "127.0.0.1:2183:2181"
+    volumes:
+      - ./conf/zk3/zoo.cfg:/conf/zoo.cfg:ro
+      - zk3-data:/data
+      - zk3-datalog:/datalog
+    restart: "no"
+volumes:
+  zk1-data:
+  zk1-datalog:
+  zk2-data:
+  zk2-datalog:
+  zk3-data:
+  zk3-datalog:

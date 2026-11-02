@@ -1,0 +1,29 @@
+{
+  "k1": {
+    "equal": true,
+    "mapreduce_unique": 5663,
+    "duckdb_unique": 5663,
+    "mapreduce_total": 120104,
+    "duckdb_total": 120104,
+    "differences": 0,
+    "examples": []
+  },
+  "k2": {
+    "equal": true,
+    "mapreduce_unique": 96052,
+    "duckdb_unique": 96052,
+    "mapreduce_total": 506354,
+    "duckdb_total": 506354,
+    "differences": 0,
+    "examples": []
+  },
+  "k3": {
+    "equal": true,
+    "mapreduce_unique": 651371,
+    "duckdb_unique": 651371,
+    "mapreduce_total": 1877380,
+    "duckdb_total": 1877380,
+    "differences": 0,
+    "examples": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tag": "20261102T125025-5e8b88",
+  "notes": "Fresh real terminal runs; user takes native window screenshots",
+  "frames": {
+    "01": "three servers and leader/follower roles",
+    "02": "one server down, write/read succeeds",
+    "03": "two servers down, quorum unavailable",
+    "04": "ephemeral node exists",
+    "05": "ephemeral node disappears",
+    "06": "unsafe publication",
+    "07": "epoch fencing rejection",
+    "08": "byte-for-byte HW3 comparison"
+  }
+}

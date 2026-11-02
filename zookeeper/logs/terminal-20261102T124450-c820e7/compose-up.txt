@@ -1,0 +1,3 @@
+ Container zk-homework-zk2-1  Running
+ Container zk-homework-zk1-1  Running
+ Container zk-homework-zk3-1  Running

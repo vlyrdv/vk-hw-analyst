@@ -1,0 +1,6 @@
+{
+  "path": "/terminal-quorum-20261102T124450-c820e7",
+  "value": "write with 2 of 3",
+  "version": 0,
+  "success": true
+}

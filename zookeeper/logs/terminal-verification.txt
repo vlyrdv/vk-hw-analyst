@@ -1,0 +1,3 @@
+terminal-20261102T125025-5e8b88-fencing-0: PASS; failover=10.635s; accepted=2; version=2; all CSVs equal HW3
+terminal-20261102T125025-5e8b88-fencing-1: PASS; failover=10.762s; accepted=1; version=1; all CSVs equal HW3
+PASS: roles, quorum, ephemeral session, checkpoint recovery, real pause, timings, unsafe duplicate, fencing rejection, full CSV equality and all 8 original terminal screenshots.

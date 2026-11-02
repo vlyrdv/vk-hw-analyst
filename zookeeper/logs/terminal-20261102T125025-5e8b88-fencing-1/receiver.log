@@ -1,0 +1,3 @@
+{"time": "2026-11-02T12:52:54.780092+00:00", "mono": 940775.104208416, "event": "receiver_ready", "port": 18089}
+{"time": "2026-11-02T12:53:25.308372+00:00", "mono": 940805.633074416, "event": "accepted", "coordinator": "backup", "epoch": 2, "pointer_version": 1}
+{"time": "2026-11-02T12:53:53.986765+00:00", "mono": 940834.312080458, "event": "BadVersionError", "coordinator": "primary", "epoch": 1}

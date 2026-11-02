@@ -1,0 +1,31 @@
+{"time": "2026-11-02T12:52:55.019819+00:00", "mono": 940775.343940416, "event": "connected", "coordinator": "primary", "session_timeout_ms": 10000, "fencing": 1}
+{"time": "2026-11-02T12:52:55.026852+00:00", "mono": 940775.350734583, "event": "became_leader", "coordinator": "primary", "epoch": 1, "pid": 66232}
+{"time": "2026-11-02T12:52:55.603254+00:00", "mono": 940775.927155, "event": "restored_checkpoint", "next_row": 0, "unique_pairs": 0}
+{"time": "2026-11-02T12:52:56.116738+00:00", "mono": 940776.440698208, "event": "checkpoint_saved", "next_row": 10000, "epoch": 1}
+{"time": "2026-11-02T12:52:56.721853+00:00", "mono": 940777.045790875, "event": "checkpoint_saved", "next_row": 20000, "epoch": 1}
+{"time": "2026-11-02T12:52:57.345842+00:00", "mono": 940777.669800291, "event": "checkpoint_saved", "next_row": 30000, "epoch": 1}
+Connection dropped: socket connection broken
+Transition to CONNECTING
+Session has expired
+{"time": "2026-11-02T12:53:37.996294+00:00", "mono": 940818.321276458, "event": "stale_checkpoint_rejected", "next_row": 40000, "epoch": 1}
+{"time": "2026-11-02T12:53:38.665517+00:00", "mono": 940818.99048675, "event": "stale_checkpoint_rejected", "next_row": 50000, "epoch": 1}
+{"time": "2026-11-02T12:53:39.356570+00:00", "mono": 940819.681567208, "event": "stale_checkpoint_rejected", "next_row": 60000, "epoch": 1}
+{"time": "2026-11-02T12:53:40.074882+00:00", "mono": 940820.399881458, "event": "stale_checkpoint_rejected", "next_row": 70000, "epoch": 1}
+{"time": "2026-11-02T12:53:40.811342+00:00", "mono": 940821.136357166, "event": "stale_checkpoint_rejected", "next_row": 80000, "epoch": 1}
+{"time": "2026-11-02T12:53:41.538104+00:00", "mono": 940821.863134708, "event": "stale_checkpoint_rejected", "next_row": 90000, "epoch": 1}
+{"time": "2026-11-02T12:53:42.295156+00:00", "mono": 940822.620204333, "event": "stale_checkpoint_rejected", "next_row": 100000, "epoch": 1}
+{"time": "2026-11-02T12:53:43.091488+00:00", "mono": 940823.4165675, "event": "stale_checkpoint_rejected", "next_row": 110000, "epoch": 1}
+{"time": "2026-11-02T12:53:43.879260+00:00", "mono": 940824.204342166, "event": "stale_checkpoint_rejected", "next_row": 120000, "epoch": 1}
+{"time": "2026-11-02T12:53:44.682715+00:00", "mono": 940825.007816333, "event": "stale_checkpoint_rejected", "next_row": 130000, "epoch": 1}
+{"time": "2026-11-02T12:53:45.502903+00:00", "mono": 940825.828016708, "event": "stale_checkpoint_rejected", "next_row": 140000, "epoch": 1}
+{"time": "2026-11-02T12:53:46.363151+00:00", "mono": 940826.688283416, "event": "stale_checkpoint_rejected", "next_row": 150000, "epoch": 1}
+{"time": "2026-11-02T12:53:47.244068+00:00", "mono": 940827.56921875, "event": "stale_checkpoint_rejected", "next_row": 160000, "epoch": 1}
+{"time": "2026-11-02T12:53:48.147107+00:00", "mono": 940828.472284958, "event": "stale_checkpoint_rejected", "next_row": 170000, "epoch": 1}
+{"time": "2026-11-02T12:53:49.039960+00:00", "mono": 940829.365148625, "event": "stale_checkpoint_rejected", "next_row": 180000, "epoch": 1}
+{"time": "2026-11-02T12:53:49.950393+00:00", "mono": 940830.275601125, "event": "stale_checkpoint_rejected", "next_row": 190000, "epoch": 1}
+{"time": "2026-11-02T12:53:50.861235+00:00", "mono": 940831.186464916, "event": "stale_checkpoint_rejected", "next_row": 200000, "epoch": 1}
+{"time": "2026-11-02T12:53:51.790155+00:00", "mono": 940832.115403041, "event": "stale_checkpoint_rejected", "next_row": 210000, "epoch": 1}
+{"time": "2026-11-02T12:53:52.746916+00:00", "mono": 940833.072188208, "event": "stale_checkpoint_rejected", "next_row": 220000, "epoch": 1}
+{"time": "2026-11-02T12:53:53.695250+00:00", "mono": 940834.020536333, "event": "stale_checkpoint_rejected", "next_row": 229388, "epoch": 1}
+{"time": "2026-11-02T12:53:53.946389+00:00", "mono": 940834.271693583, "event": "calculation_finished", "coordinator": "primary", "epoch": 1, "epoch_version": 1, "fencing": 1, "path": "results/terminal-20261102T125025-5e8b88-fencing-1/primary-e1-pairs.csv", "sha256": "989ee2a5b4e5dda269919b8dcc91da31a6954a9583eb0123e3960214c8aeeedb", "unique_pairs": 96052, "total_pairs": 506354, "matched_vacancies": 30112, "vacancies_with_skills": 17932}
+{"time": "2026-11-02T12:53:53.987378+00:00", "mono": 940834.312666958, "event": "BadVersionError", "accepted": false, "error": "BadVersionError", "coordinator": "primary", "epoch": 1}

@@ -1,0 +1,71 @@
+{
+  "method": "User-provided screenshots of actual Terminal commands and results; copied without image modification",
+  "ensemble_session": "terminal-20261102T124450-c820e7",
+  "session": "terminal-20261102T125025-5e8b88",
+  "runs": [
+    "terminal-20261102T125025-5e8b88-fencing-0",
+    "terminal-20261102T125025-5e8b88-fencing-1"
+  ],
+  "screenshots": [
+    {
+      "file": "terminal-01-roles.png",
+      "source_filename": "Снимок экрана — 2026-11-02 в 15.45.51.png",
+      "sha256": "d5059211307289cb98d74d2afdd228ae0ef57698eb4647002b8df03dcb3395e0",
+      "width": 1220,
+      "height": 582
+    },
+    {
+      "file": "terminal-02-one-down.png",
+      "source_filename": "Снимок экрана — 2026-11-02 в 15.46.10.png",
+      "sha256": "cf748d51e7f52e92d9df908e34ad56d13f9ad58497a7e2f31d1c71355f269707",
+      "width": 1256,
+      "height": 438
+    },
+    {
+      "file": "terminal-03-no-quorum.png",
+      "source_filename": "Снимок экрана — 2026-11-02 в 15.46.24.png",
+      "sha256": "a091a43fa9c99d8b22db07a2078ac497b1b100d0189f457bea6baa0ae36009a2",
+      "width": 1170,
+      "height": 214
+    },
+    {
+      "file": "terminal-04-ephemeral-present.png",
+      "source_filename": "Снимок экрана — 2026-11-02 в 15.50.40.png",
+      "sha256": "5e4f8fd9cc7ff0a8545bd0da999754c4c7e8c34f68a650c1513ed7062e273c4c",
+      "width": 1244,
+      "height": 1050
+    },
+    {
+      "file": "terminal-05-ephemeral-deleted.png",
+      "source_filename": "Снимок экрана — 2026-11-02 в 15.51.04.png",
+      "sha256": "b48027e90f111d72fe72bc4a14fb334ae32fd5283871489d5501fbced6500878",
+      "width": 1344,
+      "height": 542
+    },
+    {
+      "file": "terminal-06-without-fencing.png",
+      "source_filename": "Снимок экрана — 2026-11-02 в 15.52.45.png",
+      "sha256": "1daae9effad1bd38b767b8c33b2356afe9e681d715b1ff23c622f6565e27bd3a",
+      "width": 1738,
+      "height": 930
+    },
+    {
+      "file": "terminal-07-with-fencing.png",
+      "source_filename": "Снимок экрана — 2026-11-02 в 15.54.03.png",
+      "sha256": "b4198b34b748fd9208dd2cd6fe86cdb99929ac6b012cff7b5bb9dbaee9fa7f30",
+      "width": 1740,
+      "height": 852
+    },
+    {
+      "file": "terminal-08-comparison.png",
+      "source_filename": "Снимок экрана — 2026-11-02 в 15.54.17.png",
+      "sha256": "ec10044904b820837561f0a42399b792bbfb4db362a57b8d3af5062483e58491",
+      "width": 1740,
+      "height": 318
+    }
+  ],
+  "excluded": {
+    "source_filename": "Снимок экрана — 2026-11-02 в 15.46.41.png",
+    "reason": "Only container start messages; does not demonstrate completed recovery"
+  }
+}

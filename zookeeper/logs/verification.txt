@@ -1,0 +1,5 @@
+without-fencing/primary: 96052 unique pairs, 506354 occurrences, SHA-256 989ee2a5b4e5dda269919b8dcc91da31a6954a9583eb0123e3960214c8aeeedb
+without-fencing/backup: 96052 unique pairs, 506354 occurrences, SHA-256 989ee2a5b4e5dda269919b8dcc91da31a6954a9583eb0123e3960214c8aeeedb
+with-fencing/primary: 96052 unique pairs, 506354 occurrences, SHA-256 989ee2a5b4e5dda269919b8dcc91da31a6954a9583eb0123e3960214c8aeeedb
+with-fencing/backup: 96052 unique pairs, 506354 occurrences, SHA-256 989ee2a5b4e5dda269919b8dcc91da31a6954a9583eb0123e3960214c8aeeedb
+PASS: ensemble, ephemeral node, checkpoint recovery, monotonic failover timings, unsafe duplicate, epoch rejection, four CSVs byte-identical to HW3.

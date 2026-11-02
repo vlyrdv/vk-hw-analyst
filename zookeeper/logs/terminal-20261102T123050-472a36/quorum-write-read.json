@@ -1,0 +1,1 @@
+{"operation": "ZooKeeper create + get", "path": "/terminal-quorum-20261102T123050-472a36", "success": true, "value": "write with 2 of 3", "version": 0}
